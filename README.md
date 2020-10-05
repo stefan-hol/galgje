@@ -7,7 +7,7 @@
 |1|2|3|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 =======
@@ -15,4 +15,4 @@ Req: T: fout
 Req: A: fout
 Req: F: fout
 Req: K: fout
-Req: I
+Req: I: fout
